@@ -1,0 +1,4 @@
+name: HarderSpawns
+version: '${project.version}'
+main: com.etsuni.harderspawns.HarderSpawns
+api-version: 1.19

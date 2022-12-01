@@ -1,0 +1,9 @@
+first_join_health: 10.0
+first_join_hunger: 10
+first_join_potion_effects:
+  - SLOW 600 1
+
+respawn_health: 10.0
+respawn_hunger: 10
+respawn_potion_effects:
+  - SLOW 600 1
